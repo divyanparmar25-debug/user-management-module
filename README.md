@@ -45,4 +45,4 @@ A simple User Management Module developed using CodeIgniter 3.
 
 ### Operator
 - Email: operator@example.com
-- Password: operator123
+- Password: operator123"# user-management-module" 
