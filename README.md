@@ -41,8 +41,8 @@ A simple User Management Module developed using CodeIgniter 3.
 
 ### Admin
 - Email: admin@example.com
-- Password: admin123
+- Password: Admin@123
 
 ### Operator
 - Email: operator@example.com
-- Password: operator123"# user-management-module" 
+- Password: Operator@123
